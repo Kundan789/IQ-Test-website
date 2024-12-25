@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is 5 + 3?",
+    "options": ["5", "8", "12", "15"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": 1
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": 2
+  },
+  {
+    "question": "What is 15 * 4?",
+    "options": ["45", "60", "75", "90"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "J.K. Rowling"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "options": ["Cheetah", "Lion", "Horse", "Gazelle"],
+    "answer": 0
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO2"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "answer": 0
+  },
+  {
+    "question": "Which element is known as the King of Chemicals?",
+    "options": ["Sulfuric Acid", "Hydrogen", "Oxygen", "Nitrogen"],
+    "answer": 0
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "India"],
+    "answer": 1
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Vincent van Gogh", "Michelangelo", "Pablo Picasso"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is the hottest in the solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": 1
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": ["-1", "0", "1", "100"],
+    "answer": 1
+  }
+]
